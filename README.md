@@ -1,2 +1,3 @@
 # firstJuliaFunction
-Function outputs a sierpinski triangle pattern of base length n.
+Function outputs a Sierpinski triangle pattern of base length n.
+
