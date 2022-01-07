@@ -1,6 +1,6 @@
 #Introduction to the Julia Community - jseal
 
-#Prints a (delightful) Sierpinski triangle with base length n
+#Prints a Sierpinski triangle with base length n
 function printSierpinski(n)
     x = n - 1
     for i in x:-1:0
